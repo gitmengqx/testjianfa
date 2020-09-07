@@ -5,6 +5,9 @@ package com.atguigu.test;
  * @date 2020-9-7 15:33:17
  */
 public class TestDemo {
+    public static void main(String[] args) {
+
+    }
 }
 
 // testGitee
